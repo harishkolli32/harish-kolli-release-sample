@@ -1,7 +1,0 @@
-Git can become slow if a repository exceeds certain thresholds (read this for details). Use the scripts explained below to identify possible culprits in a repository. The scripts have been tested on macOS but they should run on Linux as is.
-
-Hint: The scripts can run for a long time and output a lot lines. Pipe their output to a file (./scrGit can become slow if a repository exceeds certain thresholds (read this for details). Use the scripts explained below to identify possible culprits in a repository. The scripts have been tested on macOS but they should run on Linux as is.
-
-Hint: The scripts can run for a long time and output a lot lines. Pipe their output to a file (./scrGit can become slow if a repository exceeds certain thresholds (read this for details). Use the scripts explained below to identify possible culprits in a repository. The scripts have been tested on macOS but they should run on Linux as is.
-
-Hint: The scripts can run for a long time and output a lot lines. Pipe their output to a file (./scr
